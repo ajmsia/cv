@@ -1,0 +1,129 @@
+div.randombox {
+  background-color:302827;
+  padding-top: 0px;
+  padding-right: 30px;
+  padding-bottom: 1px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border-style: solid;
+  border-top: 0px;
+  border-bottom: 0px
+}
+div.Profile {
+  background-color: EDE8E5;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  border-style: solid;
+}
+h1 {letter-spacing: 3px}
+h2 {letter-spacing: 0.5px;}
+h3 {letter-spacing: 0.5px}
+h4 {letter-spacing: 0.5px}
+img {display: block;margin-left: auto;margin-right: auto}
+body {
+  background-color: EDE8E5;
+  margin: 0px;
+  font-family: 'Montserrat', sans-serif;
+}
+div.contact {
+  background-color: 796255;
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border-style: solid;
+  border-top: 0px;
+  border-bottom: 0px
+}
+.fb {
+  background-color: 796255;
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 4px 2px;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+.fb:hover {
+  background-color: EDE8E5;
+  color: black;
+  border: 2px solid EDE8E5;
+}
+.ig {
+  background-color: 796255;
+  border: none;
+  color: white;
+  padding: 5px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 4px 2px;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+.ig:hover {
+  background-color: EDE8E5;
+  color: black;
+  border: 2px solid EDE8E5;
+}
+.li {
+  background-color: 796255;
+  border: none;
+  color: white;
+  padding: 5px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 4px 2px;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+.li:hover {
+  background-color: EDE8E5;
+  color: black;
+  border: 2px solid EDE8E5;
+}
+
+div.image{border-style: solid}
+a {padding-left: 90px; padding-right: 90px}
+div.education {
+  background-color: EDE8E5;
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 80px;
+  border-style: solid;
+  border-top: 0px
+}
+div.skillsandinterest {
+  background-color: BBAF9D;
+  padding-top: 70px;
+  padding-right: 30px;
+  padding-bottom: 70px;
+  padding-left: 80px;
+  border-style: solid;
+  border-top: 0px
+}
+.skillsandinterest {column-count: 2}
+h3.skills {margin-top: 0px}
+div.footer {
+  background-color:302827;
+  padding-top: 5px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border-style: solid;
+  border-bottom: 0px;
+  border-top: 0px
+}
