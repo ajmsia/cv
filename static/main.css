@@ -94,11 +94,18 @@ div.contact {
 }
 .container {
   background-color: CBC4B8;
-  padding-top: 20px;
+  padding-top: 30px;
   padding-right: 30px;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
   padding-left: 80px;
   border-style: solid;
+}
+.image-text {
+  column-count: 2;
+  column-width: 10px;
+}
+.profiletext {
+  margin-left: 80px
 }
 .img {
   width: 100%;
